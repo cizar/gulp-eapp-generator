@@ -1,0 +1,22 @@
+{
+  "name": "gulp-eapp-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cizar/gulp-eapp-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cizar/gulp-eapp-generator/issues"
+  },
+  "homepage": "https://github.com/cizar/gulp-eapp-generator",
+  "dependencies": {
+    "through2": "^2.0.0"
+  }
+}
